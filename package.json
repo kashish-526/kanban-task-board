@@ -1,0 +1,21 @@
+{
+  "name": "kanban-task-board",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Sprint 5 - Kanban task board built with React, useReducer and memoization",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "node --test src/reducer/boardReducer.test.js"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^5.0.0",
+    "vite": "^7.0.0"
+  }
+}
