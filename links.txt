@@ -1,0 +1,3 @@
+GitHub Repo: https://github.com/<your-username>/kanban-task-board
+Live Deployment: https://<your-project>.vercel.app
+Video Walkthrough: https://<your-video-link>
