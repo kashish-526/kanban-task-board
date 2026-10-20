@@ -1,3 +1,3 @@
-GitHub Repo: https://github.com/<your-username>/kanban-task-board
-Live Deployment: https://<your-project>.vercel.app
-Video Walkthrough: https://<your-video-link>
+GitHub Repo: https://github.com/kashish-526/kanban-task-board
+Live Deployment: https://kanban-task-board-seven-psi.vercel.app/
+Video Walkthrough: https://drive.google.com/file/d/1gqn81ZHpXqCwugsC8ZeZM7q7mfYvC9xw/view?usp=drivesdk
